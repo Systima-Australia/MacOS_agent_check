@@ -1,5 +1,6 @@
-date:050124
+dockversion:050124
 
+app_names=(
 "Google Chrome"
 "Microsoft Outlook"
 "Microsoft Word"
@@ -16,3 +17,4 @@ date:050124
 "zoom.us"
 "FortiClient"
 "Spotify"
+)
