@@ -1,6 +1,6 @@
-dockversion:050124
+DockVersion:050124
 
-app_names=(
+apps:
 "Google Chrome"
 "Microsoft Outlook"
 "Microsoft Word"
@@ -17,4 +17,3 @@ app_names=(
 "zoom.us"
 "FortiClient"
 "Spotify"
-)
