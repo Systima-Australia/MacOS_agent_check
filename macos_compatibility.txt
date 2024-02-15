@@ -49,6 +49,7 @@ MacBook10,1 MB 12
 MacBook9,1 MB 12
 
 # iMac
+iMac14,2 IMAC 10
 iMac15,1 IMAC 12
 iMac16,1 IMAC 12
 iMac16,2 IMAC 12
