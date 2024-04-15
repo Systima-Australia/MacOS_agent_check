@@ -7,6 +7,9 @@ MacBookAir8,2 MBA 14
 MacBookAir9,1 MBA 14
 Mac14,15 MBA 14
 Mac14,2 MBA 14
+Mac15,2 MBA 14
+Mac15,12 MBA 14
+Mac15,13 MBA 14
 
 # MacBook Pro
 MacBookPro11,4 MBP 12
